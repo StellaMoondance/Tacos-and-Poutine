@@ -116,5 +116,3 @@ If you want the most efficient and fee-free setup, consider using:
 - **Wise** for currency conversion and international payments.
 
 ---
-
-Let me know if you need help setting up any of these accounts or managing finances during your trips!
